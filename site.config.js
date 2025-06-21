@@ -6,7 +6,7 @@ const CONFIG = {
     role: "CAU Dept. of AI",
     bio: "I am studying Artificial Intelligence",
     email: "youngyj0928@cau.ac.kr",
-    linkedin: "Jaeyoung Yang",
+    linkedin: "jaeyoung-yang-435736331",
     github: "ZrlofO",
     instagram: "",
   },
